@@ -1,3 +1,3 @@
 # deque-data-structure
 
-created the deque data structure with two different implementations: one using an array, and another using a LinkedList
+Debugged the deque data structure with two different implementations: one using an array and another using a LinkedList
